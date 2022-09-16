@@ -125,7 +125,7 @@ class Quiz extends React.Component {
                 }}
                 className="App-input"
                 type="number"
-                placeholder="Respuesta"
+                placeholder="Answer"
                 onKeyUp={this.keyingUp}
               />
             </div>
